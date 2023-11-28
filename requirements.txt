@@ -1,0 +1,4 @@
+Flask
+
+for api post request download postman api platform
+	then open postman -> select post -> paste url -> body > raw > json > paste json code -> then send 
